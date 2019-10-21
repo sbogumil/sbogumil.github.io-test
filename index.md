@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Actor, Improviser, etc.
-
 ![Key Photo](images/shey.jpg)
 
 ## Previous somethings
