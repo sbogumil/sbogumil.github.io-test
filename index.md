@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Home
+# [Gallery](gallery.md)
 
 ![Key Photo](images/shey.jpg)
 
