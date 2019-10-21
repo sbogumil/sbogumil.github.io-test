@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Shey Miranda Bogumil
-Actress, Improviser, etc.
+# Actress, Improviser, etc.
 
 ![Key Photo](images/shey.jpg)
 
