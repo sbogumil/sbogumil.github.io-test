@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Actress, Improviser, etc.
+# Actor, Improviser, etc.
 
 ![Key Photo](images/shey.jpg)
 
