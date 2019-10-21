@@ -329,6 +329,25 @@ section {
       }
     }
   }
+
+  #footer {
+    .credits {
+      display: block;
+      width: 100%;
+      line-height: 30px;
+      text-align: center;
+
+      .left {
+        float: none;
+        display: block;
+      }
+
+      .right {
+        float: none;
+        display: block;
+      }
+    }
+  }
 }
 
 @media print, screen and (max-width: 480px) {
