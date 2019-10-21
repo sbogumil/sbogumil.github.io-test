@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Home
 
 ![Key Photo](images/shey.jpg)
 
