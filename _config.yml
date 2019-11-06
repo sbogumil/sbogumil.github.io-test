@@ -5,6 +5,7 @@ exclude: ["README.md"]
 
 # config settings
 remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
 github:
   is_project_page: false
   repository_url: http://sheybogumil.com
